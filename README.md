@@ -1,1 +1,1 @@
-Data Analyst internship Week 3 project
+Data Analyst Internship Week 3 Project
