@@ -1,1 +1,1 @@
-# Churn-Prediction-for-Streamworks-Media
+Data Analyst internship Week 3 project
